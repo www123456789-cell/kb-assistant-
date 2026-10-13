@@ -1,0 +1,9 @@
+{
+  "id": "kb-assistant",
+  "name": "知识库助手",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "在 Obsidian 里直接问本机知识库：带上库内全部条目的上下文，回答可一键存回知识库，问答自动留痕。手机端友好。",
+  "author": "Codex",
+  "isDesktopOnly": false
+}
